@@ -1,0 +1,6 @@
+*.lock
+target/*
+.vscode
+.DS_Store
+*data*
+mock.rs
